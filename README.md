@@ -2,8 +2,8 @@
 
 
 
-- 🔭 hoje trabalho com Dev-Web Full-stack
-- 🌱 estudando Pyton
+- 🔭 hoje trabalho com Dev Front-end
+- 🌱 estudando Type-script
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-ribeiro-couto&show_icons=true&theme=dark)
